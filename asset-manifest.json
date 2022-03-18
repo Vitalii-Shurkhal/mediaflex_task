@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mediaflex_task/static/css/main.f8f5b1c7.css",
+    "main.js": "/mediaflex_task/static/js/main.edf4edbc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mediaflex_task/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/mediaflex_task/index.html",
+    "main.f8f5b1c7.css.map": "/mediaflex_task/static/css/main.f8f5b1c7.css.map",
+    "main.edf4edbc.js.map": "/mediaflex_task/static/js/main.edf4edbc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mediaflex_task/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8f5b1c7.css",
+    "static/js/main.edf4edbc.js"
+  ]
+}
