@@ -5,3 +5,7 @@
 .header p {
     color: rgb(153, 145, 145);
 }
+
+p {
+    color: red;
+}
